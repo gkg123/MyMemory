@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:18:58:06 +0800] "GET /search.html?q=%E6%89%8B%E6%9C%BA HTTP/1.1" 404 973 http-bio-8095-exec-1 54
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:18:58:07 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8095-exec-2 2
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:19:04:58 +0800] "GET /search.html?q=%E6%89%8B%E6%9C%BA HTTP/1.1" 404 973 http-bio-8095-exec-1 48
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:19:05:04 +0800] "GET /search.html?q=%E6%89%8B%E6%9C%BA HTTP/1.1" 404 973 http-bio-8095-exec-2 3
